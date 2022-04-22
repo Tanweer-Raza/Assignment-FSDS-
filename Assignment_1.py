@@ -262,7 +262,7 @@ Answer(10.)
 # In[45]:
 
 
-print('I have eaten ' + str(99 )+ ' burritos.')
+'I have eaten ' + str(99 )+ ' burritos.'
 
 
 # In[ ]:
