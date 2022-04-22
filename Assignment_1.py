@@ -171,6 +171,7 @@ bacon = 22
 bacon +1
 
 
+
 # In[ ]:
 
 
@@ -261,7 +262,7 @@ Answer(10.)
 # In[45]:
 
 
-'I have eaten ' + str(99 )+ ' burritos.'
+print('I have eaten ' + str(99 )+ ' burritos.')
 
 
 # In[ ]:
